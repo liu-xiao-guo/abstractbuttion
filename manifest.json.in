@@ -1,0 +1,17 @@
+{
+    "name": "abstractbutton.liu-xiao-guo",
+    "description": "description of abstractbutton",
+    "architecture": "@CLICK_ARCH@",
+    "title": "abstractbutton",
+    "hooks": {
+        "abstractbutton": {
+            "apparmor": "abstractbutton/abstractbutton.apparmor",
+            "desktop":  "abstractbutton/abstractbutton.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

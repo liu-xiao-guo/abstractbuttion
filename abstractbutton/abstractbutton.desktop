@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=abstractbutton
+Exec=abstractbutton
+Icon=abstractbutton/abstractbutton.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
